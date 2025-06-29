@@ -1,0 +1,102 @@
+place_name,description,category,city,estimated_cost,popular_activities,best_season,duration_days
+Destination 1,Lakeside city known for Phewa Lake and as a gateway to the Annapurna Circuit.,Nature,Pokhara,3500,"Boating, Paragliding, Hiking",September to November,3
+Destination 2,"Historic square with palaces, courtyards and temples from the Malla period.",Cultural,Kathmandu,1500,"Sightseeing, Photography",October to December,1
+Destination 3,UNESCO World Heritage Site and one of the holiest Hindu temples.,Religious,Kathmandu,1000,"Pilgrimage, Cultural Visit",February to April,1
+Destination 4,"Jungle safari destination known for rhinos, tigers, and birdwatching.",Wildlife,Chitwan,4000,"Jungle Safari, Elephant Ride, Canoeing",October to March,2
+Destination 5,Birthplace of Lord Buddha and UNESCO World Heritage Site.,Religious,Lumbini,2000,"Pilgrimage, Monastery Tour",October to December,2
+Destination 6,Beautiful wildlife spot located in Pokhara. Known for photography.,Wildlife,Pokhara,2187,Photography,March to May,2
+Destination 7,Beautiful nature spot located in Pokhara. Known for paragliding.,Nature,Pokhara,1166,Paragliding,March to May,2
+Destination 8,Beautiful nature spot located in Namche Bazaar. Known for trekking.,Nature,Namche Bazaar,4922,Trekking,September to November,2
+Destination 9,Beautiful wildlife spot located in Jomsom. Known for sightseeing.,Wildlife,Jomsom,2538,Sightseeing,October to December,2
+Destination 10,Beautiful wildlife spot located in Dhulikhel. Known for hiking.,Wildlife,Dhulikhel,1581,Hiking,September to November,2
+Destination 11,Beautiful cultural spot located in Bhaktapur. Known for sightseeing.,Cultural,Bhaktapur,4840,Sightseeing,October to December,1
+Destination 12,Beautiful wildlife spot located in Tansen. Known for rafting.,Wildlife,Tansen,1339,Rafting,September to November,1
+Destination 13,Beautiful wildlife spot located in Kathmandu. Known for temple visit.,Wildlife,Kathmandu,2205,Temple Visit,September to November,4
+Destination 14,Beautiful nature spot located in Dhulikhel. Known for rafting.,Nature,Dhulikhel,3216,Rafting,March to May,1
+Destination 15,Beautiful adventure spot located in Gorkha. Known for paragliding.,Adventure,Gorkha,2602,Paragliding,October to December,2
+Destination 16,Beautiful adventure spot located in Bandipur. Known for sightseeing.,Adventure,Bandipur,2311,Sightseeing,October to December,1
+Destination 17,Beautiful religious spot located in Namche Bazaar. Known for photography.,Religious,Namche Bazaar,3621,Photography,October to December,4
+Destination 18,Beautiful cultural spot located in Dhulikhel. Known for sightseeing.,Cultural,Dhulikhel,4264,Sightseeing,October to December,1
+Destination 19,Beautiful nature spot located in Namche Bazaar. Known for temple visit.,Nature,Namche Bazaar,2155,Temple Visit,September to November,2
+Destination 20,Beautiful wildlife spot located in Bhaktapur. Known for sightseeing.,Wildlife,Bhaktapur,1053,Sightseeing,September to November,3
+Destination 21,Beautiful religious spot located in Jomsom. Known for hiking.,Religious,Jomsom,1134,Hiking,March to May,1
+Destination 22,Beautiful cultural spot located in Tansen. Known for photography.,Cultural,Tansen,2055,Photography,September to November,1
+Destination 23,Beautiful cultural spot located in Bandipur. Known for trekking.,Cultural,Bandipur,1052,Trekking,September to November,2
+Destination 24,Beautiful nature spot located in Bhaktapur. Known for photography.,Nature,Bhaktapur,2543,Photography,March to May,1
+Destination 25,Beautiful religious spot located in Jomsom. Known for temple visit.,Religious,Jomsom,2670,Temple Visit,March to May,1
+Destination 26,Beautiful wildlife spot located in Jomsom. Known for paragliding.,Wildlife,Jomsom,4395,Paragliding,September to November,3
+Destination 27,Beautiful nature spot located in Gorkha. Known for photography.,Nature,Gorkha,4045,Photography,September to November,1
+Destination 28,Beautiful religious spot located in Pokhara. Known for hiking.,Religious,Pokhara,1554,Hiking,September to November,4
+Destination 29,Beautiful adventure spot located in Kathmandu. Known for sightseeing.,Adventure,Kathmandu,1448,Sightseeing,September to November,2
+Destination 30,Beautiful adventure spot located in Dhulikhel. Known for rafting.,Adventure,Dhulikhel,4289,Rafting,September to November,2
+Destination 31,Beautiful adventure spot located in Namche Bazaar. Known for temple visit.,Adventure,Namche Bazaar,3952,Temple Visit,October to December,3
+Destination 32,Beautiful wildlife spot located in Tansen. Known for paragliding.,Wildlife,Tansen,3496,Paragliding,October to December,3
+Destination 33,Beautiful wildlife spot located in Kathmandu. Known for temple visit.,Wildlife,Kathmandu,4987,Temple Visit,March to May,4
+Destination 34,Beautiful nature spot located in Bhaktapur. Known for temple visit.,Nature,Bhaktapur,2475,Temple Visit,March to May,2
+Destination 35,Beautiful cultural spot located in Bhaktapur. Known for trekking.,Cultural,Bhaktapur,2310,Trekking,September to November,3
+Destination 36,Beautiful cultural spot located in Jomsom. Known for temple visit.,Cultural,Jomsom,3072,Temple Visit,October to December,3
+Destination 37,Beautiful religious spot located in Namche Bazaar. Known for sightseeing.,Religious,Namche Bazaar,2537,Sightseeing,March to May,2
+Destination 38,Beautiful cultural spot located in Bhaktapur. Known for trekking.,Cultural,Bhaktapur,2544,Trekking,October to December,4
+Destination 39,Beautiful religious spot located in Lalitpur. Known for trekking.,Religious,Lalitpur,2863,Trekking,September to November,3
+Destination 40,Beautiful nature spot located in Tansen. Known for rafting.,Nature,Tansen,4628,Rafting,October to December,4
+Destination 41,Beautiful religious spot located in Bhaktapur. Known for hiking.,Religious,Bhaktapur,3593,Hiking,October to December,3
+Destination 42,Beautiful cultural spot located in Pokhara. Known for hiking.,Cultural,Pokhara,2641,Hiking,October to December,1
+Destination 43,Beautiful adventure spot located in Bandipur. Known for photography.,Adventure,Bandipur,4495,Photography,March to May,2
+Destination 44,Beautiful nature spot located in Namche Bazaar. Known for photography.,Nature,Namche Bazaar,4868,Photography,October to December,2
+Destination 45,Beautiful cultural spot located in Tansen. Known for temple visit.,Cultural,Tansen,2519,Temple Visit,October to December,4
+Destination 46,Beautiful adventure spot located in Jomsom. Known for trekking.,Adventure,Jomsom,3693,Trekking,September to November,4
+Destination 47,Beautiful wildlife spot located in Tansen. Known for hiking.,Wildlife,Tansen,1869,Hiking,March to May,1
+Destination 48,Beautiful wildlife spot located in Tansen. Known for photography.,Wildlife,Tansen,3082,Photography,October to December,1
+Destination 49,Beautiful cultural spot located in Pokhara. Known for rafting.,Cultural,Pokhara,3241,Rafting,October to December,4
+Destination 50,Beautiful religious spot located in Namche Bazaar. Known for rafting.,Religious,Namche Bazaar,2841,Rafting,October to December,3
+Destination 50,Beautiful religious spot located in Namche Bazaar. Known for rafting.,Religious,Namche Bazaar,2841,Rafting,October to December,3
+Destination 51,"A wildlife experience in the scenic area of Tansen, famous for temple visit.",Wildlife,Tansen,4247,Temple Visit,October to December,2
+Destination 52,"A nature experience in the scenic area of Bandipur, famous for paragliding.",Nature,Bandipur,4740,Paragliding,September to November,4
+Destination 53,"A cultural experience in the scenic area of Lalitpur, famous for photography.",Cultural,Lalitpur,4938,Photography,October to December,1
+Destination 54,"A wildlife experience in the scenic area of Dhulikhel, famous for hiking.",Wildlife,Dhulikhel,5037,Hiking,October to December,3
+Destination 55,"A nature experience in the scenic area of Bhaktapur, famous for photography.",Nature,Bhaktapur,2793,Photography,October to December,1
+Destination 56,"A nature experience in the scenic area of Kathmandu, famous for sightseeing.",Nature,Kathmandu,2022,Sightseeing,October to December,1
+Destination 57,"A wildlife experience in the scenic area of Gorkha, famous for sightseeing.",Wildlife,Gorkha,3372,Sightseeing,October to December,3
+Destination 58,"A religious experience in the scenic area of Jomsom, famous for temple visit.",Religious,Jomsom,3238,Temple Visit,October to December,2
+Destination 59,"A religious experience in the scenic area of Dhulikhel, famous for temple visit.",Religious,Dhulikhel,2851,Temple Visit,September to November,2
+Destination 60,"A nature experience in the scenic area of Tansen, famous for temple visit.",Nature,Tansen,2214,Temple Visit,September to November,2
+Destination 61,"A wildlife experience in the scenic area of Namche Bazaar, famous for rafting.",Wildlife,Namche Bazaar,2243,Rafting,April to June,4
+Destination 62,"A wildlife experience in the scenic area of Gorkha, famous for trekking.",Wildlife,Gorkha,1247,Trekking,September to November,2
+Destination 63,"A cultural experience in the scenic area of Namche Bazaar, famous for photography.",Cultural,Namche Bazaar,1599,Photography,April to June,1
+Destination 64,"A religious experience in the scenic area of Kathmandu, famous for temple visit.",Religious,Kathmandu,4228,Temple Visit,October to December,1
+Destination 65,"A cultural experience in the scenic area of Bandipur, famous for sightseeing.",Cultural,Bandipur,1903,Sightseeing,October to December,2
+Destination 66,"A cultural experience in the scenic area of Pokhara, famous for sightseeing.",Cultural,Pokhara,3504,Sightseeing,September to November,1
+Destination 67,"A nature experience in the scenic area of Tansen, famous for hiking.",Nature,Tansen,5287,Hiking,September to November,3
+Destination 68,"A nature experience in the scenic area of Bandipur, famous for hiking.",Nature,Bandipur,4422,Hiking,September to November,2
+Destination 69,"A adventure experience in the scenic area of Bandipur, famous for rafting.",Adventure,Bandipur,4753,Rafting,October to December,3
+Destination 70,"A religious experience in the scenic area of Bhaktapur, famous for paragliding.",Religious,Bhaktapur,1928,Paragliding,October to December,4
+Destination 71,"A adventure experience in the scenic area of Lalitpur, famous for sightseeing.",Adventure,Lalitpur,4774,Sightseeing,September to November,1
+Destination 72,"A nature experience in the scenic area of Dhulikhel, famous for temple visit.",Nature,Dhulikhel,2026,Temple Visit,October to December,3
+Destination 73,"A religious experience in the scenic area of Kathmandu, famous for sightseeing.",Religious,Kathmandu,1258,Sightseeing,September to November,2
+Destination 74,"A wildlife experience in the scenic area of Tansen, famous for hiking.",Wildlife,Tansen,3238,Hiking,April to June,3
+Destination 75,"A cultural experience in the scenic area of Bandipur, famous for sightseeing.",Cultural,Bandipur,3260,Sightseeing,April to June,3
+Destination 76,"A nature experience in the scenic area of Tansen, famous for photography.",Nature,Tansen,2960,Photography,October to December,4
+Destination 77,"A cultural experience in the scenic area of Gorkha, famous for sightseeing.",Cultural,Gorkha,4834,Sightseeing,April to June,4
+Destination 78,"A adventure experience in the scenic area of Dhulikhel, famous for temple visit.",Adventure,Dhulikhel,5033,Temple Visit,April to June,4
+Destination 79,"A wildlife experience in the scenic area of Bandipur, famous for sightseeing.",Wildlife,Bandipur,4111,Sightseeing,April to June,4
+Destination 80,"A religious experience in the scenic area of Jomsom, famous for photography.",Religious,Jomsom,4356,Photography,September to November,4
+Destination 81,"A cultural experience in the scenic area of Kathmandu, famous for photography.",Cultural,Kathmandu,2776,Photography,October to December,1
+Destination 82,"A cultural experience in the scenic area of Bhaktapur, famous for trekking.",Cultural,Bhaktapur,3195,Trekking,September to November,4
+Destination 83,"A cultural experience in the scenic area of Kathmandu, famous for temple visit.",Cultural,Kathmandu,1891,Temple Visit,April to June,2
+Destination 84,"A religious experience in the scenic area of Gorkha, famous for paragliding.",Religious,Gorkha,3819,Paragliding,April to June,4
+Destination 85,"A religious experience in the scenic area of Bhaktapur, famous for photography.",Religious,Bhaktapur,2469,Photography,April to June,1
+Destination 86,"A nature experience in the scenic area of Namche Bazaar, famous for rafting.",Nature,Namche Bazaar,4069,Rafting,October to December,1
+Destination 87,"A religious experience in the scenic area of Bandipur, famous for paragliding.",Religious,Bandipur,3004,Paragliding,April to June,2
+Destination 88,"A adventure experience in the scenic area of Dhulikhel, famous for temple visit.",Adventure,Dhulikhel,2227,Temple Visit,April to June,4
+Destination 89,"A wildlife experience in the scenic area of Pokhara, famous for trekking.",Wildlife,Pokhara,1465,Trekking,October to December,4
+Destination 90,"A religious experience in the scenic area of Namche Bazaar, famous for hiking.",Religious,Namche Bazaar,4317,Hiking,October to December,2
+Destination 91,"A adventure experience in the scenic area of Namche Bazaar, famous for temple visit.",Adventure,Namche Bazaar,4112,Temple Visit,April to June,3
+Destination 92,"A nature experience in the scenic area of Pokhara, famous for hiking.",Nature,Pokhara,4166,Hiking,October to December,3
+Destination 93,"A adventure experience in the scenic area of Jomsom, famous for trekking.",Adventure,Jomsom,4121,Trekking,October to December,3
+Destination 94,"A wildlife experience in the scenic area of Bandipur, famous for photography.",Wildlife,Bandipur,3440,Photography,October to December,1
+Destination 95,"A adventure experience in the scenic area of Kathmandu, famous for photography.",Adventure,Kathmandu,1838,Photography,September to November,2
+Destination 96,"A cultural experience in the scenic area of Pokhara, famous for rafting.",Cultural,Pokhara,4116,Rafting,October to December,2
+Destination 97,"A wildlife experience in the scenic area of Bhaktapur, famous for photography.",Wildlife,Bhaktapur,4982,Photography,April to June,3
+Destination 98,"A religious experience in the scenic area of Bhaktapur, famous for temple visit.",Religious,Bhaktapur,1214,Temple Visit,April to June,4
+Destination 99,"A nature experience in the scenic area of Dhulikhel, famous for temple visit.",Nature,Dhulikhel,5344,Temple Visit,September to November,3
+Destination 100,"A cultural experience in the scenic area of Namche Bazaar, famous for paragliding.",Cultural,Namche Bazaar,2395,Paragliding,April to June,2
